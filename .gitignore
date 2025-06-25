@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Arduino
+*.hex
+*.elf
+
+# VS Code
+.vscode/
+
+# System
+Thumbs.db
+
